@@ -15,7 +15,7 @@ BioFace is an application developed to detect various types of facial skin disea
 - **Rahardyandra Naufal Effendy Pratama** (A183B4KY3619) - Mobile Development - Universitas Amikom Yogyakarta
 
 ## BioFace Project Repository
-- **[BioFace-API](https://github.com/selverie/BioFace-API)**
+- **[BioFace-API](https://github.com/Project-BioFace/BioFace-API)**
 - **[BioFace-Machine Learning]()**
 - **[BioFace-Android Mobile App]()**
 
