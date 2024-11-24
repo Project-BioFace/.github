@@ -16,6 +16,6 @@ BioFace is an application developed to detect various types of facial skin disea
 
 ## BioFace Project Repository
 - **[BioFace-API](https://github.com/Project-BioFace/BioFace-API)**
-- **[BioFace-Machine Learning]()**
-- **[BioFace-Android Mobile App]()**
+- **[BioFace-Machine Learning](https://github.com/Project-BioFace/BioFace-ML)**
+- **[BioFace-Android Mobile App](https://github.com/Project-BioFace/BioFace-Android)**
 
